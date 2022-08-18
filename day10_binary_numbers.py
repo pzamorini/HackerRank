@@ -1,5 +1,5 @@
 # the objective is to show as the output the maximum number of consecutive 1's
-# after convert numbers to binary
+# after convert decimal numbers to binary
 if __name__ == '__main__':
     n = int(input().strip())
     count = 0
